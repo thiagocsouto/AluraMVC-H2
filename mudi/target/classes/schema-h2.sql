@@ -1,1 +1,0 @@
-create table pedido(id integer auto_increment , nome varchar(50), valor float, data_entrega date, url_produto varchar(255), url_imagem varchar(200), descrição varchar(80), status varchar(80));
